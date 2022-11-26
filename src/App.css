@@ -1,0 +1,173 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+  }
+  
+  body {
+    background-color: whitesmoke;
+    background-image: url(./assets/images/sep09.jpg);
+    background-size: cover
+  }
+
+  h1 {
+    margin: 10px 1000px 10px 10px;
+    color: #0275d8;
+    font-size: 34px;
+  }
+
+  h2,
+  h6 {
+    text-shadow: 2px 2px rgb(143, 142, 142);
+    text-align: center;
+    color: #0275d8;
+    font-size: 34px;
+    font-weight: bold;
+  }
+
+  h4 {
+    color: #0275d8;
+  }
+
+  #header {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    justify-content: flex-end;
+    margin-bottom: 100px;
+  }
+
+  #inna {
+    padding: 1rem;
+  }
+
+  #avatar {
+    border-radius: 50%;
+    border: 5px solid rgb(186, 182, 182);
+    width: 200px;
+    height: auto;
+    margin: 25px 25px 25px 25px;
+    margin-top: 100px;
+  }
+
+  #about {
+    text-align: center;
+  }
+
+  #aboutDesc {
+    margin: 50px 300px 10px 300px;
+  }
+
+  ul li { 
+    padding: 1rem;  
+}
+
+p {
+    color: aliceblue;
+}
+
+li {
+  list-style-type: square;
+}
+
+.projects {
+  text-align: center;
+  position: relative;
+} 
+
+#projectImg,
+#project2Img,
+#project3Img,
+#project4Img,
+#project5Img,
+#project6Img {
+  border-radius: 2%;
+  border: 5px solid rgb(186, 182, 182);
+  opacity: 1;
+}
+
+.projectLink:hover #projectImg,
+.projectLink:hover #project2Img,
+.projectLink:hover #project3Img,
+.projectLink:hover #project4Img,
+.projectLink:hover #project5Img,
+.projectLink:hover #project6Img {
+  opacity: 0.3;
+}
+
+.textOver {
+  color: #f126f8;
+  font-weight: bold;
+  font-size: 2rem;
+  text-transform: uppercase;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+}
+
+#gitH,
+#gitH2,
+#gitH3,
+#gitH4,
+#gitH5,
+#gitH6 {
+  color: #f126f8;
+}
+
+.projectLink:hover .textOver {
+  opacity: 1;
+}
+
+#contactForm {
+margin: 100px 100px 100px 100px;
+}
+
+.contact-title {
+margin-bottom: 40px;
+}
+
+#btnSubmit {
+  background-color: rgb(186, 182, 182);
+    width: 140px;
+    height: 40px;
+    border-radius: 12px;
+    color: #0275d8;
+    font-weight: bold;
+}
+
+#resume {
+  text-align: right;
+  margin-top: 50px;
+}
+
+#dwIcon {
+  color: rgb(186, 182, 182);
+  margin-top: 50px;
+}
+
+.columnTitle {
+  margin-top: 40px;
+  color: #f126f8;
+  text-transform: uppercase;
+  
+  }
+
+.tech {
+  color: #0275d8;
+  line-height: 10px;
+  font-weight: bolder;
+}
+
+#arrow {
+  font-size:30px;
+}
+
+  #footer {
+    position: fixed; 
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+  }
