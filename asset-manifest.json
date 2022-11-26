@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/inna-react-portfolio/static/css/main.b6ef8b9b.css",
-    "main.js": "/inna-react-portfolio/static/js/main.3026e6de.js",
-    "static/media/screenshot1.png": "/inna-react-portfolio/static/media/screenshot1.2394a217ba3909eaa7c9.png",
-    "static/media/sep09.jpg": "/inna-react-portfolio/static/media/sep09.c997cb09b4d2a4c8acdc.jpg",
-    "static/media/home.png": "/inna-react-portfolio/static/media/home.194055164727dec243d4.png",
-    "static/media/InnaMamedova.pdf": "/inna-react-portfolio/static/media/InnaMamedova.8446ca44ea28b86dbb77.pdf",
-    "static/media/avatar.JPG": "/inna-react-portfolio/static/media/avatar.3a993f84f61d97bd4140.JPG",
-    "static/media/screenshot4.png": "/inna-react-portfolio/static/media/screenshot4.5b4ec9dbdc3bf35aa918.png",
-    "static/media/screenshot2.png": "/inna-react-portfolio/static/media/screenshot2.35863100d3d3ebe3db48.png",
-    "static/media/screenshot5.png": "/inna-react-portfolio/static/media/screenshot5.37ccda555bbcf1bb00eb.png",
-    "static/media/screenshot3.png": "/inna-react-portfolio/static/media/screenshot3.5015d8115996df16a8ac.png",
-    "index.html": "/inna-react-portfolio/index.html",
-    "main.b6ef8b9b.css.map": "/inna-react-portfolio/static/css/main.b6ef8b9b.css.map",
-    "main.3026e6de.js.map": "/inna-react-portfolio/static/js/main.3026e6de.js.map"
+    "main.css": "/inna-portfolio/static/css/main.6a2fd17b.css",
+    "main.js": "/inna-portfolio/static/js/main.21aaf533.js",
+    "static/media/screenshot1.png": "/inna-portfolio/static/media/screenshot1.2394a217ba3909eaa7c9.png",
+    "static/media/sep09.jpg": "/inna-portfolio/static/media/sep09.c997cb09b4d2a4c8acdc.jpg",
+    "static/media/home.png": "/inna-portfolio/static/media/home.194055164727dec243d4.png",
+    "static/media/InnaMamedova.pdf": "/inna-portfolio/static/media/InnaMamedova.8446ca44ea28b86dbb77.pdf",
+    "static/media/avatar.JPG": "/inna-portfolio/static/media/avatar.3a993f84f61d97bd4140.JPG",
+    "static/media/screenshot4.png": "/inna-portfolio/static/media/screenshot4.5b4ec9dbdc3bf35aa918.png",
+    "static/media/screenshot2.png": "/inna-portfolio/static/media/screenshot2.35863100d3d3ebe3db48.png",
+    "static/media/screenshot5.png": "/inna-portfolio/static/media/screenshot5.37ccda555bbcf1bb00eb.png",
+    "static/media/screenshot3.png": "/inna-portfolio/static/media/screenshot3.5015d8115996df16a8ac.png",
+    "index.html": "/inna-portfolio/index.html",
+    "main.6a2fd17b.css.map": "/inna-portfolio/static/css/main.6a2fd17b.css.map",
+    "main.21aaf533.js.map": "/inna-portfolio/static/js/main.21aaf533.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6ef8b9b.css",
-    "static/js/main.3026e6de.js"
+    "static/css/main.6a2fd17b.css",
+    "static/js/main.21aaf533.js"
   ]
 }
