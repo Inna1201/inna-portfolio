@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/inna-portfolio/static/css/main.9fb7a7d3.css",
+    "main.css": "/inna-portfolio/static/css/main.9eeb952c.css",
     "main.js": "/inna-portfolio/static/js/main.21aaf533.js",
     "static/media/screenshot1.png": "/inna-portfolio/static/media/screenshot1.2394a217ba3909eaa7c9.png",
     "static/media/sep09.jpg": "/inna-portfolio/static/media/sep09.c997cb09b4d2a4c8acdc.jpg",
@@ -12,11 +12,11 @@
     "static/media/screenshot5.png": "/inna-portfolio/static/media/screenshot5.37ccda555bbcf1bb00eb.png",
     "static/media/screenshot3.png": "/inna-portfolio/static/media/screenshot3.5015d8115996df16a8ac.png",
     "index.html": "/inna-portfolio/index.html",
-    "main.9fb7a7d3.css.map": "/inna-portfolio/static/css/main.9fb7a7d3.css.map",
+    "main.9eeb952c.css.map": "/inna-portfolio/static/css/main.9eeb952c.css.map",
     "main.21aaf533.js.map": "/inna-portfolio/static/js/main.21aaf533.js.map"
   },
   "entrypoints": [
-    "static/css/main.9fb7a7d3.css",
+    "static/css/main.9eeb952c.css",
     "static/js/main.21aaf533.js"
   ]
 }
