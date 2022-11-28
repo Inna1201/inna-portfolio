@@ -171,3 +171,19 @@ margin-bottom: 40px;
     width: 100%;
     height: 60px;
   }
+
+  @media screen and (max-width: 992px) {
+    body {
+        width: 100%;
+        margin: 0px 0px 0px 0px;
+        
+    }
+}
+
+@media screen and (max-width: 576px) {
+    body {
+        width: 100%;
+        margin: 0px 0px 0px 0px;
+    }
+     
+}
