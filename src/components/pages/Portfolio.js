@@ -5,6 +5,7 @@ import projectThree from "../../assets/images/screenshot2.png";
 import projectFour from "../../assets/images/screenshot3.png";
 import projectFive from "../../assets/images/screenshot4.png";
 import projectSix from "../../assets/images/screenshot5.png";
+import projectSeven from "../../assets/images/screenshot6.png";
 
 export default function Portfolio() {
   return (
@@ -13,21 +14,21 @@ export default function Portfolio() {
       <div className="projects">
         <a
           className="projectLink"
-          href="https://inna1201.github.io/Project-1-Destination-Guide/"
+          href="https://maifrigo-recipe-app.herokuapp.com/"
         >
           <img
-            id="projectImg"
-            src={projectOne}
+            id="project2Img"
+            src={projectSeven}
             className="m-2"
             style={{ width: "40%" }}
-            alt="destination-guide"
+            alt="Icebreak-My-Date"
           />
           <p className="textOver">
-            destination guide{" "}
+            Maifrigo{" "}
             <a
-              id="gitH"
+              id="gitH2"
               class="btn-floating btn-fb px-2"
-              href="https://github.com/Inna1201/Project-1-Destination-Guide"
+              href="https://github.com/Laura-Kam/Monfrigo"
             >
               <i class="fab fa-github fa-3x"> </i>
             </a>
@@ -52,6 +53,30 @@ export default function Portfolio() {
               id="gitH2"
               class="btn-floating btn-fb px-2"
               href="https://github.com/Inna1201/Project-2-Icebreak-My-Date"
+            >
+              <i class="fab fa-github fa-3x"> </i>
+            </a>
+          </p>
+        </a>
+      </div>
+      <div className="projects">
+        <a
+          className="projectLink"
+          href="https://inna1201.github.io/Project-1-Destination-Guide/"
+        >
+          <img
+            id="projectImg"
+            src={projectOne}
+            className="m-2"
+            style={{ width: "40%" }}
+            alt="destination-guide"
+          />
+          <p className="textOver">
+            destination guide{" "}
+            <a
+              id="gitH"
+              class="btn-floating btn-fb px-2"
+              href="https://github.com/Inna1201/Project-1-Destination-Guide"
             >
               <i class="fab fa-github fa-3x"> </i>
             </a>
